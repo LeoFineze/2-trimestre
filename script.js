@@ -8,8 +8,22 @@ const perguntas = [
   {
     enunciado:"Quem tem copa do mundo?",
     alternativas:[
-      "Lionel Messi",
-      "Cristiano Ronaldo",
+      {
+        texto:"alternativas",
+        afirmação:"afirmação",
+      {
+      }
+      texto:"alternativa 2"
+      afirmação:"afirmação",
+      },
+    ]
+    {
+      texto: "Lionel Messi",
+      afirmação: "afirmação",
+    }
+      texto:"Cristiano Ronaldo",
+      texto:"Cristiano Ronaldo"
+      afirmação: "afirmação"
     ]
   },
   {
