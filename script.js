@@ -6,44 +6,44 @@ const textoResultado= document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado:"Qual o melhor mapa na opinião do Leonardo"
+    enunciado:"quem tem copa?"
       alternativas: [
   {
- texto: "Breeze";
+ texto: "Messi";
 afirmaçao: "afirmaçao";
 }
 {
-  texto: "Sunset";
+  texto: "Messi";
 
 
             ]
 },
 {
-    enunciado:"Qual o agente mais divertido de jogar?"
+    enunciado:"Quem tem mais bola de ouro?"
       alternativas: [
-        "Reyna";
-        "Jett";
+        "Messi";
+        "C.Ronaldo";
             ]
 },
 {
-    enunciado:"Qual foi o peak do Leonardo?"
+    enunciado:"Quem tem mais Champions?"
       alternativas: [
-        "Imortal 1";
-        "Ascendente 3";
+        "C.Ronaldo";
+        "Messi";
             ]
 },
 {
-    enunciado:"Qual o main do Leonardo"
+    enunciado:"Qual time tem mais brasileirão"
       alternativas: [
-        "Jett";
-        "Clove";
+        "Palmeiras";
+        "Corinthians";
             ]
 },
 {
-    enunciado:"perguntas 5"
+    enunciado:"Qual time tem mais copa do Brasil"
       alternativas: [
-        "alternativa 1";
-        "alternativa 2";
+        "Cruzeiro";
+        "Flamengo";
             ]
 },
 ];
